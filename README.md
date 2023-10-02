@@ -11,7 +11,6 @@ Mukhauta is a platform that allows users to engage in anonymous conversations ab
 - [Usage](#usage)
   - [Starting the Server](#starting-the-server)
   - [Starting the Client](#starting-the-client)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
