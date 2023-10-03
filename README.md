@@ -28,7 +28,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mukhauta.git
+   git clone https://github.com/imambujshukla7/mukhauta.git
    ```
 
 2. Navigate to the project directory:
